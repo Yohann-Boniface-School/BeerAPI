@@ -1,0 +1,6 @@
+# Webstorm Configuration
+.idea
+
+# Vendor Folder
+node_modules
+app/lib
