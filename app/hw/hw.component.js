@@ -1,4 +1,4 @@
-angular.module('angularSkeleton').component(
+angular.module('beerAPI').component(
     'hw', {
         templateUrl: 'hw/hw.template.html',
         controller: [
